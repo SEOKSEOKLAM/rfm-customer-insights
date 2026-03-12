@@ -42,7 +42,7 @@
 
 ## 5. 結果分析
 ### 5.1 客戶分群 (Cluster Distribution)
-- 從 `cluster_distribution.png` 根據 cluster 的 RFM 中心特徵判斷，Cluster 0 呈現更低的最近購買間隔、更高的購買頻次與更高的總消費，因此可界定為高價值客群。其客戶占比也較高，說明平台整體存在相對集中的活躍消費群體。
+- 從 `cluster_distribution.png` 中 cluster 的 RFM 中心特徵判斷，Cluster 0 呈現更低的最近購買間隔、更高的購買頻次與更高的總消費，因此可界定為高價值客群。其客戶占比也較高，說明平台整體存在相對集中的活躍消費群體。
   
 ### 5.2 RFM 特徵分布 (RFM Distribution)
 - 箱型圖顯示各 RFM 指標的分布狀況，證實大部分客戶消費與購買頻次較低，但存在少量高價值客戶形成長尾效應。
